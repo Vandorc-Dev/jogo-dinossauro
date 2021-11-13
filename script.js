@@ -47,7 +47,7 @@ function pulo(){
 function createCactus(){
     const cactus = document.createElement('div');
     let cactusPosicao = 1000;
-    let randomTime = Math.random() * 6000;
+    let randomTime = Math.random() * 5000;
 
 
 
